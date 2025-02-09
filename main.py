@@ -1,1 +1,1 @@
-hello , Github!
+This is a new feature added in a branch.
